@@ -1,0 +1,14 @@
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.AssemblyInfoInputs.cache
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.AssemblyInfo.cs
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.csproj.CoreCompileInputs.cache
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\bin\Debug\net8.0\Basic Arithmetic Operations.exe
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\bin\Debug\net8.0\Basic Arithmetic Operations.deps.json
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\bin\Debug\net8.0\Basic Arithmetic Operations.runtimeconfig.json
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\bin\Debug\net8.0\Basic Arithmetic Operations.dll
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\bin\Debug\net8.0\Basic Arithmetic Operations.pdb
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.dll
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\refint\Basic Arithmetic Operations.dll
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.pdb
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\Basic Arithmetic Operations.genruntimeconfig.cache
+D:\.net Course\Projects\Basic Arithmetic Operations\Basic Arithmetic Operations\obj\Debug\net8.0\ref\Basic Arithmetic Operations.dll

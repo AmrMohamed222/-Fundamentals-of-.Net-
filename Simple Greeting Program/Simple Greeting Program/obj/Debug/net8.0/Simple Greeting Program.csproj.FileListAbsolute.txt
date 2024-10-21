@@ -1,0 +1,14 @@
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\bin\Debug\net8.0\Simple Greeting Program.exe
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\bin\Debug\net8.0\Simple Greeting Program.deps.json
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\bin\Debug\net8.0\Simple Greeting Program.runtimeconfig.json
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\bin\Debug\net8.0\Simple Greeting Program.dll
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\bin\Debug\net8.0\Simple Greeting Program.pdb
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.AssemblyInfoInputs.cache
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.AssemblyInfo.cs
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.csproj.CoreCompileInputs.cache
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.dll
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\refint\Simple Greeting Program.dll
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.pdb
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\Simple Greeting Program.genruntimeconfig.cache
+D:\.net Course\Projects\Simple Greeting Program\Simple Greeting Program\obj\Debug\net8.0\ref\Simple Greeting Program.dll
