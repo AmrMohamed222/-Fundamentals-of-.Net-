@@ -1,0 +1,14 @@
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\bin\Debug\net8.0\multiplication table.exe
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\bin\Debug\net8.0\multiplication table.deps.json
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\bin\Debug\net8.0\multiplication table.runtimeconfig.json
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\bin\Debug\net8.0\multiplication table.dll
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\bin\Debug\net8.0\multiplication table.pdb
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.AssemblyInfoInputs.cache
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.AssemblyInfo.cs
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.csproj.CoreCompileInputs.cache
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.dll
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\refint\multiplication table.dll
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.pdb
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\multiplication table.genruntimeconfig.cache
+D:\.net Course\Ass\Day 2\multiplication table\multiplication table\obj\Debug\net8.0\ref\multiplication table.dll

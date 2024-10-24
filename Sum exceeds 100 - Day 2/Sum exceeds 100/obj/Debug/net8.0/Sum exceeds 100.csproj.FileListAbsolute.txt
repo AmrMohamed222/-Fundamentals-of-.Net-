@@ -1,0 +1,14 @@
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\bin\Debug\net8.0\Sum exceeds 100.exe
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\bin\Debug\net8.0\Sum exceeds 100.deps.json
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\bin\Debug\net8.0\Sum exceeds 100.runtimeconfig.json
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\bin\Debug\net8.0\Sum exceeds 100.dll
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\bin\Debug\net8.0\Sum exceeds 100.pdb
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.AssemblyInfoInputs.cache
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.AssemblyInfo.cs
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.csproj.CoreCompileInputs.cache
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.dll
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\refint\Sum exceeds 100.dll
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.pdb
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\Sum exceeds 100.genruntimeconfig.cache
+D:\.net Course\Ass\Day 2\Sum exceeds 100\Sum exceeds 100\obj\Debug\net8.0\ref\Sum exceeds 100.dll

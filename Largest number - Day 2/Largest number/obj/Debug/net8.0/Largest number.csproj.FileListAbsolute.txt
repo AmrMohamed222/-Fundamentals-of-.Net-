@@ -1,0 +1,14 @@
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.AssemblyInfoInputs.cache
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.AssemblyInfo.cs
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.csproj.CoreCompileInputs.cache
+D:\.net Course\Ass\Day 2\Largest number\Largest number\bin\Debug\net8.0\Largest number.exe
+D:\.net Course\Ass\Day 2\Largest number\Largest number\bin\Debug\net8.0\Largest number.deps.json
+D:\.net Course\Ass\Day 2\Largest number\Largest number\bin\Debug\net8.0\Largest number.runtimeconfig.json
+D:\.net Course\Ass\Day 2\Largest number\Largest number\bin\Debug\net8.0\Largest number.dll
+D:\.net Course\Ass\Day 2\Largest number\Largest number\bin\Debug\net8.0\Largest number.pdb
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.dll
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\refint\Largest number.dll
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.pdb
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\Largest number.genruntimeconfig.cache
+D:\.net Course\Ass\Day 2\Largest number\Largest number\obj\Debug\net8.0\ref\Largest number.dll
