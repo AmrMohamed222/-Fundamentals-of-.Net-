@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Store and Display Book Information - Day4/1.0.0": {
+        "runtime": {
+          "Store and Display Book Information - Day4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store and Display Book Information - Day4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\bin\Debug\net8.0\Employee Database with Department.exe
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\bin\Debug\net8.0\Employee Database with Department.deps.json
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\bin\Debug\net8.0\Employee Database with Department.runtimeconfig.json
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\bin\Debug\net8.0\Employee Database with Department.dll
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\bin\Debug\net8.0\Employee Database with Department.pdb
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.AssemblyInfoInputs.cache
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.AssemblyInfo.cs
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.csproj.CoreCompileInputs.cache
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.dll
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\refint\Employee Database with Department.dll
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.pdb
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\Employee Database with Department.genruntimeconfig.cache
+D:\.net Course\Ass\Day 4\Employee Database with Department\Employee Database with Department\obj\Debug\net8.0\ref\Employee Database with Department.dll

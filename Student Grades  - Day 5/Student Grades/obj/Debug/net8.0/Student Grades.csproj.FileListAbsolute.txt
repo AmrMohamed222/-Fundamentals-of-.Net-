@@ -1,0 +1,28 @@
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfoInputs.cache
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfo.cs
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\geforce\source\repos\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.exe
+C:\Users\geforce\source\repos\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.deps.json
+C:\Users\geforce\source\repos\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.runtimeconfig.json
+C:\Users\geforce\source\repos\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.dll
+C:\Users\geforce\source\repos\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.pdb
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.dll
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\refint\Student Grades.dll
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.pdb
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.genruntimeconfig.cache
+C:\Users\geforce\source\repos\Student Grades\Student Grades\obj\Debug\net8.0\ref\Student Grades.dll
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.exe
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.deps.json
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.runtimeconfig.json
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.dll
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\bin\Debug\net8.0\Student Grades.pdb
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfoInputs.cache
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfo.cs
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.csproj.CoreCompileInputs.cache
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.dll
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\refint\Student Grades.dll
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.pdb
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\Student Grades.genruntimeconfig.cache
+D:\.net Course\Ass\Day 4\Student Grades\Student Grades\obj\Debug\net8.0\ref\Student Grades.dll

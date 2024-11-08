@@ -1,0 +1,14 @@
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\bin\Debug\net8.0\Store and Display Book Information - Day4.exe
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\bin\Debug\net8.0\Store and Display Book Information - Day4.deps.json
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\bin\Debug\net8.0\Store and Display Book Information - Day4.runtimeconfig.json
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\bin\Debug\net8.0\Store and Display Book Information - Day4.dll
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\bin\Debug\net8.0\Store and Display Book Information - Day4.pdb
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.AssemblyInfoInputs.cache
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.AssemblyInfo.cs
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.csproj.CoreCompileInputs.cache
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.dll
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\refint\Store and Display Book Information - Day4.dll
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.pdb
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\Store and Display Book Information - Day4.genruntimeconfig.cache
+C:\Users\geforce\source\repos\Store and Display Book Information - Day4\Store and Display Book Information - Day4\obj\Debug\net8.0\ref\Store and Display Book Information - Day4.dll
